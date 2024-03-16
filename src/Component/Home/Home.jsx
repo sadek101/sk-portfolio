@@ -1,3 +1,4 @@
+import Service from "../Service/Service";
 
 
 const Home = () => {
@@ -75,12 +76,9 @@ web experiences together!</h3>
   </div>
 </section>
 <section className="m-12">
-  <div className="text-center text-white">
-  <h2 className="text-3xl font-bold">Service</h2>
-  <p className="mx-48">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati magnam necessitatibus ipsa aut sint quis commodi nemo suscipit architecto rerum, iusto laudantium assumenda amet vitae illum ullam ut eum quae?</p>
-  </div>
   
   
+  <Service></Service>
 </section>
         </div>
     );

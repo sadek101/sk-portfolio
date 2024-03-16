@@ -1,0 +1,70 @@
+{
+    "status": "success",
+    "message": "Data retrieval successful",
+    "data": [
+      {
+        "id": "1",
+        "image_url": "https://i.ibb.co/drbXy8c/download.png",
+        "title": "Coding",
+        "description": "This color is commonly used in various design contexts, including web design, graphic design, and branding, to evoke strong emotions or create visual impact.",
+        "background_color": "#87CEEB"
+      },
+      {
+        "id": "2",
+        "image_url": "https://i.ibb.co/fM2FhJr/png-transparent-graphic-design-communication-design-instructional-design-divergent-thinking-logo-art.png",
+        "title": "Planing",
+        "description": " Website planning is a crucial step in the website development process where you define the goals, target audience, content, structure, and functionality of your website. .",
+        "background_color": "#FFD700"
+      },
+      {
+        "id": "3",
+        "image_url": "https://i.ibb.co/5jmFH7x/download-1.png",
+        "title": "Html",
+        "description": "You can customize it by adding your own content, styling with CSS, and adding interactivity with JavaScript to create your desired webpage..",
+        "background_color": "#2E8B57"
+      },
+      {
+        "id": "4",
+        "image_url": "https://i.ibb.co/K6pNHMh/919826.png",
+        "title": "Css (style)",
+        "description": "You can use this as a reference when writing or understanding CSS code for styling your HTML documents.",
+        "background_color": "#808080"
+      },
+      {
+        "id": "5",
+        "image_url": "https://i.ibb.co/Fqc1K8N/png-transparent-tailwind-css-css-framework-customizable-low-level-tailwind-logo-3d-icon.png",
+        "title": "Tawilwind",
+        "description": "Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs without having to write traditional CSS.",
+        "background_color": "#F0E68C"
+      },
+      {
+        "id": "6",
+        "image_url": "https://i.ibb.co/4FxyyxL/download-1.png",
+        "title": "daisyui",
+        "description": "Colorful autumn leaves falling in a park.",
+        "background_color": "#FFA07A"
+      },
+      {
+        "id": "7",
+        "image_url": "https://i.ibb.co/DVgS9Zb/Java-Script-logo.png",
+        "title": "Javascript",
+        "description": "JavaScript  is a versatile and widely used programming language primarily known for its ability to add interactivity and dynamic behavior to web pages.",
+        "background_color": "#191970"
+      },
+      {
+        "id": "8",
+        "image_url": "https://i.ibb.co/8DtbwKN/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png",
+        "title": "React",
+        "description": "React is a popular JavaScript library for building user interfaces, developed and maintained by Facebook.",
+        "background_color": "#00FFFF"
+      },
+      {
+        "id": "9",
+        "image_url": "https://i.ibb.co/F4KRQ9s/png-transparent-action-plan-computer-icons-business-plan-plan-miscellaneous-search-engine-optimizati.png",
+        "title": "Seacrch engine optimaiztion",
+        "description": "Search Engine Optimization (SEO) is the process of optimizing a website to improve its visibility and ranking in search engine results pages (SERPs)..",
+        "background_color": "#FFFFFF"
+      }
+    ]
+  }
+  
