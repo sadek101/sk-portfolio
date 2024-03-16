@@ -1,8 +1,9 @@
-import React from 'react';
+
 
 const Home = () => {
     return (
         <div>
+          <section>
             <div className="carousel w-[1510px] h-[740px] text-center">
   <div id="slide1" className="carousel-item relative w-full">
     <img src="https://i.ibb.co/r0FXQTH/pexels-lukas-574073.jpg" className="w-full opacity-40" />
@@ -52,6 +53,35 @@ const Home = () => {
     </div>
   </div>
 </div>
+</section>
+<section className="my-12">
+  <h2 className="text-3xl font-bold text-white text-center">About me</h2>
+  <p className="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat temporibus nihil tempore culpa nostrum a ratione saepe.</p>
+  <div className="m-12 grid grid-cols-2">
+    <div>
+      <img src="https://i.ibb.co/q1sgCPV/1375.jpg" alt="" />
+    </div>
+    <div className="text-2xl">
+      <h3>Passionate web developer with a
+flair for turning ideas into code.
+Dedicated to clean and efficient
+solutions, I thrive on challenges
+and continuous learning. A
+collaborative team player eager
+to contribute to innovative
+projects. Let's create impactful
+web experiences together!</h3>
+    </div>
+  </div>
+</section>
+<section className="m-12">
+  <div className="text-center text-white">
+  <h2 className="text-3xl font-bold">Service</h2>
+  <p className="mx-48">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati magnam necessitatibus ipsa aut sint quis commodi nemo suscipit architecto rerum, iusto laudantium assumenda amet vitae illum ullam ut eum quae?</p>
+  </div>
+  
+  
+</section>
         </div>
     );
 };
