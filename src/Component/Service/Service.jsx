@@ -24,7 +24,7 @@ const Service = () => {
             </div>
             <div>
                 {
-                   service.map(service  => <Card key={service.id} service={service}></Card>) 
+                   Service.map(service  => <Card key={service.id} service={service}></Card>) 
                 }
             </div>
         </div>
